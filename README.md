@@ -23,7 +23,7 @@ chmod +x install.sh
 chmod +x Gtajisanxx
 ```
 ```
-python2 Gtajisanxx
+python2 Gtajisanxxx.py
 ````
 
 ### ScreenShot
