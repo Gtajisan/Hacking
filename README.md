@@ -20,7 +20,7 @@ chmod +x install.sh
 ./install.sh
 ```
 ```
-chmod +x Gtajisanxx
+chmod +x Gtajisanxxx
 ```
 ```
 python2 Gtajisanxxx.py
