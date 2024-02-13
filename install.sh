@@ -5,5 +5,5 @@ apt-get install hydra -y
 apt-get install figlet -y
 apt-get dist-upgrade
 figlet Tools is Installed
-echo How to use Ha3MrX
-echo Command : python Ha3Mrx.py
+echo How to use Gtajisan
+echo Command : Gtajisanxxx.py
